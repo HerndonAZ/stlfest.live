@@ -111,7 +111,7 @@ const Routes = () => {
           Tickets
         </Link>
       </li>
-      <li className="hidden">
+      <li className="">
         <Link
           href={sponsorDeck}
           className="block py-2 pr-4 pl-3 text-white  hover:bg-gray-50 lg:hover:bg-transparent hover:text-white lg:p-0 hover:scale-105 ease-in-out duration-150  "
