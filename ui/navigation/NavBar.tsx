@@ -134,7 +134,7 @@ const Routes = () => {
         >
           FAQs
         </Link>
-      </li>
+      </li> 
       <li>
         <ContactButton />
       </li>
